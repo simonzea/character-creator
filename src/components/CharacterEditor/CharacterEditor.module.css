@@ -28,7 +28,7 @@
 .characterWrapper {
   position: fixed;
   min-height: 500px;
-  top:0;
+  top:15%;
   right:0;
   width: 35%;
 }
@@ -36,7 +36,6 @@
 .controlColumn {
   max-width: 50%;
   position: relative;
-  z-index: 1;
 }
 
 .perspective {
